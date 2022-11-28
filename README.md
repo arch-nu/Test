@@ -1,4 +1,4 @@
 # test
 test for using github
-ÀÌ¹ø¿¡´Â ÇÒ ¼ö ÀÖ´Ù.
-c
+ì´ë²ˆì—ëŠ” í•  ìˆ˜ ìˆë‹¤.
+clash
